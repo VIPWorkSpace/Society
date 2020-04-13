@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "119960094292",
+    "firebase_url": "https://senja-e814e.firebaseio.com",
+    "project_id": "senja-e814e",
+    "storage_bucket": "senja-e814e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119960094292:android:3a097d6c72e4f6b4080fc1",
+        "android_client_info": {
+          "package_name": "com.victorio.society"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119960094292-drcd8a7tf6bkkeuoas80lfbdhcnt5of7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.victorio.society",
+            "certificate_hash": "d49f3f4c33bdd9636d7608c74c95d528038aa490"
+          }
+        },
+        {
+          "client_id": "119960094292-df1io7pn9lrl3eoevbndsgas30blcq4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA61iShVtWl_qpKqKgG0WRiw-kUIMtTtr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119960094292-df1io7pn9lrl3eoevbndsgas30blcq4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

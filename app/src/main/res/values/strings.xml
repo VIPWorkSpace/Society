@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Society</string>
+    <string name="label_btn_checkout">Checkout</string>
+    <string name="signin">SIGN IN </string>
+    <string name="new_account">NEW ACCOUNT</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="continue_label">CONTINUE</string>
+    <string name="nama_label">Nama Lengkap</string>
+    <string name="nama_cs">VyWorkSpace</string>
+    <string name="bio_cs">Developer</string>
+    <string name="saldo_cs">$ 290</string>
+    <string name="bio_label">Your Passion?</string>
+    <string name="explore_label">EXPLORE NOW</string>
+    <string name="buy_label">BUY TICKET</string>
+    <string name="pay_label">PAY NOW</string>
+    <string name="refund_label">REFUND NOW</string>
+    <string name="save_label">SAVE PROFILE</string>
+
+
+</resources>
